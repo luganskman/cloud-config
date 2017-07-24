@@ -1,3 +1,9 @@
+spring:
+  cloud:
+    config:
+      allowOverride: true
+      overrideNone: true
+      overrideSystemProperties: false
 id: 1
 data: 1.11
 timestamp: 2017:01:01T01:01:01
