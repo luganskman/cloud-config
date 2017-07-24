@@ -1,9 +1,9 @@
-spring:
-  cloud:
-    config:
-      allowOverride: true
-      overrideNone: true
-      overrideSystemProperties: false
+#spring:
+#  cloud:
+#    config:
+#      allowOverride: true
+#      overrideNone: true
+#      overrideSystemProperties: false
 id: 10
 data: 10.10
 timestamp: 2017:10:10T10:10:10
